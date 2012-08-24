@@ -9,7 +9,7 @@ Running the test:
 
     #Terminal 1 - Type :-
     ~> cd /path/to/Simple-NodeJS-DNS-Server
-    ~> node node dns-server-test.js
+    ~> node dns-server-test.js
     #output
     Listening on 53
     
