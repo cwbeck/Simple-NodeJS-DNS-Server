@@ -1,0 +1,8 @@
+{
+  "name"           : "Simple-NodeJS-DNS-Server",
+  "dependencies"   : {
+                      "native-dns" : "*"
+                     },
+  "main"           : "./dns-server-test.js",
+  "version"        : "0.0.1"
+}
