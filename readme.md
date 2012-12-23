@@ -3,7 +3,7 @@
 Requirements:
 
 * nodejs needs to be installed. On debian, use aptitude install nodejs or download via nodejs.org
-* native-dns. This can be installed using 'npm install native-dns' via the command line.
+* native-dns. This can be installed using npm install on the command line, assuming you have npm installed (http://npmjs.org)
 
 Running the test:
 
